@@ -35,4 +35,4 @@
 </table>
 
 ## Author
-Sadique Khan
+Dhairya Agrawal
